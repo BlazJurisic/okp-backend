@@ -1,0 +1,1 @@
+curl -F 'file=@/Users/Blaz/Documents/workspace/university/okp/test_videos/vid1.mp4' http://localhost:8888/upload
